@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Blockchain development. 
 - 💬 Ask me about react-js , blockchain , data structure and algorithms. 
 - 📫 [ mail at: ](mailto:mamtal.cs.19@nitj.ac.in)
+- ⚡ Fun fact: Funniest 
 
 <!--
 **leelmamta/leelmamta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
