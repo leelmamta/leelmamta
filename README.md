@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on React-js project at Grado Edu. as a manager and front-end developer. 
 - 🌱 I’m currently learning Blockchain development. 
 - 💬 Ask me about react-js , blockchain , data structure and algorithms. 
-- [📫](mamtal.cs.19@nitj.ac.in)
+- 📫 [ mail at: ](mailto:mamtal.cs.19@nitj.ac.in)
 
 <!--
 **leelmamta/leelmamta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
