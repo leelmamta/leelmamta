@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm mamta leel 
-- 🔭 I’m currently working on React-js project at Grado Edu. as a manager and front-end developer. 
-- 🌱 I’m currently learning Blockchain development. 
-- 💬 Ask me about react-js , blockchain , data structure and algorithms. 
+- 🔭 I’m currently working on React-js project. 
+- 🌱 I’m currently learning Cryptography attacks. 
+- 💬 Ask me about react-js , blockchain , data structure and algorithms, Computer Networks . 
 - 📫 [ mail at: ](mailto:mamtal.cs.19@nitj.ac.in)
 - ⚡ Fun fact: Funniest 
 
