@@ -58,7 +58,7 @@ I  am 👨‍💻 Full-Stack Developer , Problem solver
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leelmamta&show_icons=true&locale=en&layout=compact" alt="leelmamta" /></p>
 
 
-## Performance 
+## Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leelmamta&show_icons=true&locale=en" alt="leelmamta" /></p>
 
 ## Connect with me 
