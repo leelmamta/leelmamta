@@ -1,7 +1,7 @@
 <!-- ## 👋 Mamta here,  
 I  am 👨‍💻 Full-Stack Developer , Problem solver 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
-📚 I want to learn blockchain development and Ethical hacking. 
+📚 I want to learn how tech solutions can help peoples growth. 
 
 
 ## Tech & Tools Preference 🎓
@@ -9,7 +9,7 @@ I  am 👨‍💻 Full-Stack Developer , Problem solver
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelmamta)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Framewoks I know 
-Bootstrap , React-js , next-js 
+Bootstrap , React-js , 
 
 
 ### Connect with me at: 
@@ -36,13 +36,13 @@ I  am 👨‍💻 Full-Stack Developer , Problem solver
 
 <p align="left"> <a href="https://twitter.com/mamta_leel" target="blank"><img src="https://img.shields.io/twitter/follow/mamta_leel?logo=twitter&style=for-the-badge" alt="mamta_leel" /></a> </p>
 
-- 🔭 I’m currently working on **HobbyConnect**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Algorithms , next-js**
+- 🌱 I’m currently learning **Algorithms , Java Full stack Development**
 
 - 💬 Ask me about **React-js , Data structures**
 
-- 📫 How to reach me **mamtal.cs.19@nitj.ac.in**
+- 📫 How to reach me **mamtaleel4@gmail.com**
 
 
 
