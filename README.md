@@ -36,7 +36,7 @@ I  am 👨‍💻 Full-Stack Developer , Problem solver
 
 <p align="left"> <a href="https://twitter.com/mamta_leel" target="blank"><img src="https://img.shields.io/twitter/follow/mamta_leel?logo=twitter&style=for-the-badge" alt="mamta_leel" /></a> </p>
 
-- 🔭 I’m currently working on **ML model (to solve fake voices)**
+- 🔭 I’m currently working on **ML model**
 
 - 🌱 I’m currently learning **Algorithms , Java Full stack Development**
 
