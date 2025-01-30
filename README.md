@@ -1,5 +1,5 @@
 <!-- ## 👋 Mamta here,  
-I  am 👨‍💻 Full-Stack Developer , Problem solver 
+I  am 👨‍💻 Full-Stack Developer , Problem solver, Quick Learner 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
 📚 I want to learn how tech solutions can help peoples growth. 
 
@@ -9,7 +9,7 @@ I  am 👨‍💻 Full-Stack Developer , Problem solver
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelmamta)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Framewoks I know 
-Bootstrap , React-js , 
+Bootstrap , React-js , Spring boot
 
 
 ### Connect with me at: 
