@@ -1,67 +1,45 @@
-<!-- ## 👋 Mamta here,  
-I  am 👨‍💻 Full-Stack Developer , Problem solver, Quick Learner 
-🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
-📚 I want to learn how tech solutions can help peoples growth. 
+## 👋 Hello, I'm Mamta!  
+I am a **Software Developer at NatWest**, with prior experience at **Samsung**.  
+I hold a **BTech in Computer Science from NIT** and have a strong passion for developing scalable and innovative solutions.  
 
+🚀 **Technical Expertise:**
+- **Backend Technologies:** Kafka, MongoDB, DynamoDB, Spring Boot  
+- **Cloud & DevOps:** AWS, CI/CD Pipelines  
+- **Frontend Technologies:** React.js, Node.js  
+- **Systems & Architecture:** System Design, Operating Systems  
+- **Programming Concepts:** Implemented a low-level MongoDB interface, Object-Oriented Programming in application design  
 
-## Tech & Tools Preference 🎓
+🔍 I am passionate about solving complex problems, architecting scalable systems, and leveraging emerging technologies to build impactful digital solutions.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leelmamta)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-### Framewoks I know 
-Bootstrap , React-js , Spring boot
+## 🛠️ Technical Proficiency  
+**Languages & Databases:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
+**Frameworks & Tools:**  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4479A1?style=for-the-badge&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
-### Connect with me at: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leelmamta) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mamtaleel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mamta_leel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/_Unknown_01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/leel_123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/_Lee)  
+---
 
+## 📊 GitHub Performance  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leelmamta&show_icons=true&theme=radical)
 
+---
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leelmamta&show_icons=true)  
- -->
-
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=leelmamta)   -->
-
-
-<!-- <h1 align="center">Hi 👋 Mamta here, </h1>
-<h3 align="center">I  am 👨‍💻 Full-Stack Developer , Problem solver</h3> -->
- ## 👋 Mamta here,  
-I  am 👨‍💻 Full-Stack Developer , Problem solver 
-🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. 
-📚 I want to learn blockchain development and Ethical hacking. 
-</hr>
-
-<p align="left"> <a href="https://twitter.com/mamta_leel" target="blank"><img src="https://img.shields.io/twitter/follow/mamta_leel?logo=twitter&style=for-the-badge" alt="mamta_leel" /></a> </p>
-
-- 🔭 I’m currently working on **ML model**
-
-- 🌱 I’m currently learning **Algorithms , Java Full stack Development**
-
-- 💬 Ask me about **React-js , Data structures**
-
-- 📫 How to reach me **mamtaleel4@gmail.com**
-
-
-
-## Languages and Tools: 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  </p>
-
-## Frameworks 
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></p>
-
-## Performance 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leelmamta&show_icons=true&locale=en" alt="leelmamta" /></p>
-
-## Connect with me 
-<p align="left">
-<a href="https://twitter.com/mamta_leel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamta_leel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mamtaleel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mamtaleel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/leel_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="leel_123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_lee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="_lee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_unknown_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_unknown_01" height="30" width="40" /></a>
-</p>
+## Connect with Me  
+<a href="https://www.linkedin.com/in/mamtaleel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="https://twitter.com/mamta_leel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
+<a href="https://www.leetcode.com/_unknown_01" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>  
+<a href="https://codeforces.com/profile/_Lee" target="_blank"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
