@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mamta!  
 I am a **Software Developer at NatWest**, with prior experience at **Samsung**.  
-I hold a **BTech in Computer Science from NIT** and have a strong passion for developing scalable and innovative solutions.  
+I hold a **BTech in Computer Science from NIT JALANDHAR** and have a strong passion for developing scalable and innovative solutions.  
 
 🚀 **Technical Expertise:**
 - **Backend Technologies:** Kafka, MongoDB, DynamoDB, Spring Boot  
