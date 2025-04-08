@@ -5,7 +5,8 @@ I hold a **BTech in Computer Science from NIT JALANDHAR** and have a strong pass
 🚀 **Technical Expertise:**
 - **Backend Technologies:** Kafka, MongoDB, DynamoDB, Spring Boot  
 - **Cloud & DevOps:** AWS, CI/CD Pipelines  
-- **Frontend Technologies:** React.js, Node.js  
+- **Frontend Technologies:** React.js, Node.js
+- **Programming Languages:** cpp, Java, Javascript, Python 
 - **Systems & Architecture:** System Design, Operating Systems  
 - **Programming Concepts:** Implemented a low-level MongoDB interface, Object-Oriented Programming in application design  
 
