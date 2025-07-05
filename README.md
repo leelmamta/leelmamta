@@ -3,9 +3,9 @@ I am a **Software Developer at NatWest**, with prior experience at **Samsung**.
 I hold a **BTech in Computer Science from NIT JALANDHAR** and have a strong passion for developing scalable and innovative solutions.  
 
 🚀 **Technical Expertise:**
-- **Backend Technologies:** Kafka, MongoDB, DynamoDB, Spring Boot  
+- **Backend Technologies:** Kafka, MongoDB, DynamoDB, Spring Boot, Java, SOAP, REST APIS,   
 - **Cloud & DevOps:** AWS, CI/CD Pipelines  
-- **Frontend Technologies:** React.js, Node.js
+- **Frontend Technologies:** React.js,
 - **Programming Languages:** cpp, Java, Javascript, Python 
 - **Systems & Architecture:** System Design, Operating Systems  
 - **Programming Concepts:** Implemented a low-level MongoDB interface, Object-Oriented Programming in application design  
